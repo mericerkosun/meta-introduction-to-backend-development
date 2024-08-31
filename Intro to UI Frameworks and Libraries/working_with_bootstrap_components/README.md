@@ -1,7 +1,7 @@
 ![Logo](final.png)
 # Lab Instructions: Working with Bootstrap components
 
-## Introduction
+## Introduction
 In this exercise, you will practice adding Bootstrap components to a webpage.
 
 ## Goal
