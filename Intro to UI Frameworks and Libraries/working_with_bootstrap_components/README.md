@@ -4,7 +4,7 @@
 ## Introduction
 In this exercise, you will practice adding Bootstrap components to a webpage.
 
-## Goal
+## Goal
 Update the Little Lemon website to use Bootstrap Components.
 
 ## Objectives
